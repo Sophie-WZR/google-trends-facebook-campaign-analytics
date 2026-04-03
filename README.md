@@ -1,8 +1,8 @@
 # Google Trends + Facebook Ad Campaign Analytics
 
-An exploratory analytics project that combines Facebook ad campaign performance with Google Trends data to examine whether external market-demand signals align with campaign efficiency over time.
+An end-to-end analytics project that combines Facebook ad campaign performance data with Google Trends demand signals to explore whether external market context aligns with campaign efficiency over time.
 
-The project is intentionally scoped as an exploratory market-context analysis rather than a causal attribution model. Google Trends is used as an external demand signal, not as a user-level measure of what a specific Facebook audience segment searched for.
+The project includes Python data-cleaning and KPI-engineering workflows, audience-cluster analysis, exploratory demand-alignment notebooks, SQLite and SQL analysis layers, and a React dashboard designed as a lightweight solutions-style demo.
 
 ## Overview
 
