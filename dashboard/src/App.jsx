@@ -94,15 +94,10 @@ function ArchitectureStrip({ overview, themeCount }) {
         <div className="hero-copy">
           <span className="eyebrow">Solution Flow</span>
           <h2>Retail Media Demand Intelligence Console</h2>
-          <div className="hero-meta">
-            <span className="meta-pill">North America context</span>
-            <span className="meta-pill">React demo layer</span>
-            <span className="meta-pill">Exploratory demand alignment</span>
-          </div>
         </div>
         <p>
-          A lightweight demo environment that turns raw campaign and market-context data into a
-          decision-ready walkthrough for revenue and solutions conversations.
+          A lightweight decision surface that combines campaign performance, market context, and
+          audience signals in one view.
         </p>
       </div>
       <div className="hero-glance">
@@ -112,20 +107,8 @@ function ArchitectureStrip({ overview, themeCount }) {
         </div>
         <div className="glance-card">
           <span className="section-mini-label">Campaign footprint</span>
-          <strong>{`${formatCompact(overview.rows)} ads | ${overview.campaigns} campaigns`}</strong>
+          <strong>{`${formatCompact(overview.rows)} ad rows | ${overview.campaigns} campaign IDs`}</strong>
         </div>
-        <div className="glance-card">
-          <span className="section-mini-label">Demand themes</span>
-          <strong>{`${themeCount} context topics`}</strong>
-        </div>
-      </div>
-      <div className="architecture-strip">
-        {items.map((item, index) => (
-          <div key={item} className="architecture-node">
-            <span>{`0${index + 1}`}</span>
-            <strong>{item}</strong>
-          </div>
-        ))}
       </div>
     </section>
   );
@@ -334,8 +317,8 @@ function ClusterList({ title, rows, tone }) {
           <div key={row.audience_cluster_label} className={`candidate-tile ${tone}`}>
             <div className="candidate-header">
               <div>
-                <strong>{row.audience_cluster_label}</strong>
-                <div className="cluster-meta">{row.audience_cluster_key}</div>
+                <strong>{row.audience_cluster_label.replace("cluster_", "Audience Cluster ")}</strong>
+                <div className="cluster-meta">{`Interest code set: ${row.audience_cluster_key}`}</div>
               </div>
               <span className={`status-chip ${tone}`}>{getStatus(row)}</span>
             </div>
@@ -526,7 +509,7 @@ export default function App() {
           <div className="rail-card surface-card">
             <div className="section-mini-label">Demand theme</div>
             <h3>Choose a market context</h3>
-            <p>Switch themes to simulate how a solutions team might walk a retailer through context-sensitive campaign decisions.</p>
+            <p>Switch themes to compare market context and campaign response.</p>
             <ThemeSelector
               themes={data.themes}
               selectedTheme={selectedTheme}
@@ -550,7 +533,7 @@ export default function App() {
           <SectionIntro
             eyebrow="Executive View"
             title="Campaign health and demand context"
-            description="Start with top-line efficiency, then move into theme-level context and segment sensitivity. The layout is designed to mirror how a solutions engineer might guide a live customer demo."
+            description="Top-line performance, theme context, and segment sensitivity in one view."
           />
 
           <section className="metrics-grid">

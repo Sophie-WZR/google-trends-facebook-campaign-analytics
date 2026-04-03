@@ -192,28 +192,9 @@ body {
   max-width: 760px;
 }
 
-.hero-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-
-.meta-pill {
-  display: inline-flex;
-  align-items: center;
-  min-height: 34px;
-  padding: 0 14px;
-  border: 1px solid rgba(17, 24, 39, 0.08);
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.68);
-  color: var(--accent-strong);
-  font-size: 0.92rem;
-  font-weight: 600;
-}
-
 .hero-glance {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 14px;
   margin-bottom: 18px;
 }
@@ -231,40 +212,6 @@ body {
   font-family: "Space Grotesk", sans-serif;
   font-size: 1.04rem;
   line-height: 1.25;
-}
-
-.architecture-strip {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 14px;
-}
-
-.architecture-node {
-  border-radius: 22px;
-  padding: 18px;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(240, 245, 255, 0.92));
-  border: 1px solid rgba(21, 33, 29, 0.08);
-  box-shadow: var(--shadow-soft);
-}
-
-.architecture-node span {
-  display: inline-flex;
-  width: 34px;
-  height: 34px;
-  border-radius: 999px;
-  align-items: center;
-  justify-content: center;
-  background: rgba(29, 78, 216, 0.1);
-  color: var(--accent);
-  font-family: "Space Grotesk", sans-serif;
-  font-weight: 700;
-}
-
-.architecture-node strong {
-  display: block;
-  margin-top: 14px;
-  line-height: 1.25;
-  font-size: 0.98rem;
 }
 
 .app-grid {
@@ -811,7 +758,6 @@ tbody tr:hover {
 
 @media (max-width: 980px) {
   .hero-glance,
-  .architecture-strip,
   .metrics-grid,
   .two-column,
   .three-column,
