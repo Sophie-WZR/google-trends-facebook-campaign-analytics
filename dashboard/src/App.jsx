@@ -469,7 +469,7 @@ export default function App() {
   const [error, setError] = useState("");
 
   useEffect(() => {
-    fetch("/data/dashboard_data.json")
+    fetch(`${import.meta.env.BASE_URL}data/dashboard_data.json`)
       .then((response) => response.json())
       .then((payload) => {
         setData(payload);
