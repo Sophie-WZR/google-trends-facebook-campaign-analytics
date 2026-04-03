@@ -79,25 +79,6 @@ function SectionIntro({ eyebrow, title, description }) {
   );
 }
 
-function WorkflowStrip() {
-  const steps = [
-    "Clean Facebook campaign data and engineer KPI fields",
-    "Add Google Trends as market-level demand context by date",
-    "Surface demand-sensitive segments and cluster-level actions",
-  ];
-
-  return (
-    <section className="workflow-strip">
-      {steps.map((step, index) => (
-        <div key={step} className="workflow-step surface-card">
-          <span>{`0${index + 1}`}</span>
-          <p>{step}</p>
-        </div>
-      ))}
-    </section>
-  );
-}
-
 function ArchitectureStrip({ overview, themeCount }) {
   const items = [
     "Facebook campaign data",
@@ -571,7 +552,6 @@ export default function App() {
             title="Campaign health and demand context"
             description="Start with top-line efficiency, then move into theme-level context and segment sensitivity. The layout is designed to mirror how a solutions engineer might guide a live customer demo."
           />
-          <WorkflowStrip />
 
           <section className="metrics-grid">
             <MetricCard

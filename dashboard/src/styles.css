@@ -447,37 +447,6 @@ body {
   margin-bottom: 16px;
 }
 
-.workflow-strip {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 16px;
-  margin-bottom: 24px;
-}
-
-.workflow-step {
-  border-radius: 22px;
-  padding: 18px 20px;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(249, 250, 251, 0.82));
-}
-
-.workflow-step span {
-  display: inline-flex;
-  width: 34px;
-  height: 34px;
-  border-radius: 999px;
-  align-items: center;
-  justify-content: center;
-  background: rgba(29, 78, 216, 0.1);
-  color: var(--accent);
-  font-family: "Space Grotesk", sans-serif;
-  font-weight: 700;
-}
-
-.workflow-step p {
-  margin: 14px 0 0;
-  color: var(--muted);
-}
-
 .chart-card,
 .table-card,
 .cluster-card,
@@ -846,7 +815,6 @@ tbody tr:hover {
   .metrics-grid,
   .two-column,
   .three-column,
-  .workflow-strip,
   .app-grid,
   .section-heading {
     grid-template-columns: 1fr;
