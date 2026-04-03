@@ -1,0 +1,57 @@
+date,trend_keyword,search_interest
+2017-08-17,fashion,89
+2017-08-18,fashion,90
+2017-08-19,fashion,100
+2017-08-20,fashion,93
+2017-08-21,fashion,79
+2017-08-22,fashion,92
+2017-08-23,fashion,89
+2017-08-24,fashion,91
+2017-08-25,fashion,92
+2017-08-26,fashion,100
+2017-08-27,fashion,92
+2017-08-28,fashion,85
+2017-08-29,fashion,89
+2017-08-30,fashion,89
+2017-08-17,fitness,90
+2017-08-18,fitness,84
+2017-08-19,fitness,90
+2017-08-20,fitness,86
+2017-08-21,fitness,86
+2017-08-22,fitness,100
+2017-08-23,fitness,95
+2017-08-24,fitness,85
+2017-08-25,fitness,86
+2017-08-26,fitness,88
+2017-08-27,fitness,79
+2017-08-28,fitness,95
+2017-08-29,fitness,97
+2017-08-30,fitness,93
+2017-08-17,grocery,71
+2017-08-18,grocery,76
+2017-08-19,grocery,96
+2017-08-20,grocery,100
+2017-08-21,grocery,69
+2017-08-22,grocery,69
+2017-08-23,grocery,67
+2017-08-24,grocery,68
+2017-08-25,grocery,75
+2017-08-26,grocery,86
+2017-08-27,grocery,88
+2017-08-28,grocery,77
+2017-08-29,grocery,73
+2017-08-30,grocery,68
+2017-08-17,skin care,100
+2017-08-18,skin care,90
+2017-08-19,skin care,84
+2017-08-20,skin care,79
+2017-08-21,skin care,85
+2017-08-22,skin care,97
+2017-08-23,skin care,96
+2017-08-24,skin care,100
+2017-08-25,skin care,92
+2017-08-26,skin care,81
+2017-08-27,skin care,80
+2017-08-28,skin care,91
+2017-08-29,skin care,91
+2017-08-30,skin care,98

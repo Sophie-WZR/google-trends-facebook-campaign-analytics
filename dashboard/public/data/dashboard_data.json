@@ -1,0 +1,1240 @@
+{
+  "overview": {
+    "date_start": "2017-08-17",
+    "date_end": "2017-08-30",
+    "rows": 1143,
+    "campaigns": 3,
+    "audience_clusters": 788,
+    "total_spend": 58705.23,
+    "total_revenue": 21580.0,
+    "avg_ctr": 0.000164,
+    "avg_conversion_rate": 0.0893,
+    "avg_roas": 1.392
+  },
+  "themes": [
+    "fashion",
+    "fitness",
+    "grocery",
+    "skin care"
+  ],
+  "dailyThemeSeries": {
+    "fashion": [
+      {
+        "date": "2017-08-17",
+        "search_interest": 89,
+        "ctr": 0.000211,
+        "conversion_rate": 0.0196,
+        "roas": 0.2741
+      },
+      {
+        "date": "2017-08-18",
+        "search_interest": 90,
+        "ctr": 0.000187,
+        "conversion_rate": 0.0285,
+        "roas": 0.3801
+      },
+      {
+        "date": "2017-08-19",
+        "search_interest": 100,
+        "ctr": 0.000194,
+        "conversion_rate": 0.0228,
+        "roas": 0.3052
+      },
+      {
+        "date": "2017-08-20",
+        "search_interest": 93,
+        "ctr": 0.000175,
+        "conversion_rate": 0.0295,
+        "roas": 0.3845
+      },
+      {
+        "date": "2017-08-21",
+        "search_interest": 79,
+        "ctr": 0.000174,
+        "conversion_rate": 0.033,
+        "roas": 0.4414
+      },
+      {
+        "date": "2017-08-22",
+        "search_interest": 92,
+        "ctr": 0.000147,
+        "conversion_rate": 0.0511,
+        "roas": 0.6691
+      },
+      {
+        "date": "2017-08-23",
+        "search_interest": 89,
+        "ctr": 0.000142,
+        "conversion_rate": 0.0483,
+        "roas": 0.5897
+      },
+      {
+        "date": "2017-08-24",
+        "search_interest": 91,
+        "ctr": 0.00021,
+        "conversion_rate": 0.021,
+        "roas": 0.2784
+      },
+      {
+        "date": "2017-08-25",
+        "search_interest": 92,
+        "ctr": 0.00017,
+        "conversion_rate": 0.0341,
+        "roas": 0.4353
+      },
+      {
+        "date": "2017-08-26",
+        "search_interest": 100,
+        "ctr": 0.00018,
+        "conversion_rate": 0.0246,
+        "roas": 0.3063
+      },
+      {
+        "date": "2017-08-27",
+        "search_interest": 92,
+        "ctr": 0.000211,
+        "conversion_rate": 0.0243,
+        "roas": 0.3228
+      },
+      {
+        "date": "2017-08-28",
+        "search_interest": 85,
+        "ctr": 0.00018,
+        "conversion_rate": 0.0226,
+        "roas": 0.2957
+      },
+      {
+        "date": "2017-08-29",
+        "search_interest": 89,
+        "ctr": 0.00015,
+        "conversion_rate": 0.0312,
+        "roas": 0.3802
+      },
+      {
+        "date": "2017-08-30",
+        "search_interest": 89,
+        "ctr": 0.000172,
+        "conversion_rate": 0.0239,
+        "roas": 0.2975
+      }
+    ],
+    "fitness": [
+      {
+        "date": "2017-08-17",
+        "search_interest": 90,
+        "ctr": 0.000211,
+        "conversion_rate": 0.0196,
+        "roas": 0.2741
+      },
+      {
+        "date": "2017-08-18",
+        "search_interest": 84,
+        "ctr": 0.000187,
+        "conversion_rate": 0.0285,
+        "roas": 0.3801
+      },
+      {
+        "date": "2017-08-19",
+        "search_interest": 90,
+        "ctr": 0.000194,
+        "conversion_rate": 0.0228,
+        "roas": 0.3052
+      },
+      {
+        "date": "2017-08-20",
+        "search_interest": 86,
+        "ctr": 0.000175,
+        "conversion_rate": 0.0295,
+        "roas": 0.3845
+      },
+      {
+        "date": "2017-08-21",
+        "search_interest": 86,
+        "ctr": 0.000174,
+        "conversion_rate": 0.033,
+        "roas": 0.4414
+      },
+      {
+        "date": "2017-08-22",
+        "search_interest": 100,
+        "ctr": 0.000147,
+        "conversion_rate": 0.0511,
+        "roas": 0.6691
+      },
+      {
+        "date": "2017-08-23",
+        "search_interest": 95,
+        "ctr": 0.000142,
+        "conversion_rate": 0.0483,
+        "roas": 0.5897
+      },
+      {
+        "date": "2017-08-24",
+        "search_interest": 85,
+        "ctr": 0.00021,
+        "conversion_rate": 0.021,
+        "roas": 0.2784
+      },
+      {
+        "date": "2017-08-25",
+        "search_interest": 86,
+        "ctr": 0.00017,
+        "conversion_rate": 0.0341,
+        "roas": 0.4353
+      },
+      {
+        "date": "2017-08-26",
+        "search_interest": 88,
+        "ctr": 0.00018,
+        "conversion_rate": 0.0246,
+        "roas": 0.3063
+      },
+      {
+        "date": "2017-08-27",
+        "search_interest": 79,
+        "ctr": 0.000211,
+        "conversion_rate": 0.0243,
+        "roas": 0.3228
+      },
+      {
+        "date": "2017-08-28",
+        "search_interest": 95,
+        "ctr": 0.00018,
+        "conversion_rate": 0.0226,
+        "roas": 0.2957
+      },
+      {
+        "date": "2017-08-29",
+        "search_interest": 97,
+        "ctr": 0.00015,
+        "conversion_rate": 0.0312,
+        "roas": 0.3802
+      },
+      {
+        "date": "2017-08-30",
+        "search_interest": 93,
+        "ctr": 0.000172,
+        "conversion_rate": 0.0239,
+        "roas": 0.2975
+      }
+    ],
+    "grocery": [
+      {
+        "date": "2017-08-17",
+        "search_interest": 71,
+        "ctr": 0.000211,
+        "conversion_rate": 0.0196,
+        "roas": 0.2741
+      },
+      {
+        "date": "2017-08-18",
+        "search_interest": 76,
+        "ctr": 0.000187,
+        "conversion_rate": 0.0285,
+        "roas": 0.3801
+      },
+      {
+        "date": "2017-08-19",
+        "search_interest": 96,
+        "ctr": 0.000194,
+        "conversion_rate": 0.0228,
+        "roas": 0.3052
+      },
+      {
+        "date": "2017-08-20",
+        "search_interest": 100,
+        "ctr": 0.000175,
+        "conversion_rate": 0.0295,
+        "roas": 0.3845
+      },
+      {
+        "date": "2017-08-21",
+        "search_interest": 69,
+        "ctr": 0.000174,
+        "conversion_rate": 0.033,
+        "roas": 0.4414
+      },
+      {
+        "date": "2017-08-22",
+        "search_interest": 69,
+        "ctr": 0.000147,
+        "conversion_rate": 0.0511,
+        "roas": 0.6691
+      },
+      {
+        "date": "2017-08-23",
+        "search_interest": 67,
+        "ctr": 0.000142,
+        "conversion_rate": 0.0483,
+        "roas": 0.5897
+      },
+      {
+        "date": "2017-08-24",
+        "search_interest": 68,
+        "ctr": 0.00021,
+        "conversion_rate": 0.021,
+        "roas": 0.2784
+      },
+      {
+        "date": "2017-08-25",
+        "search_interest": 75,
+        "ctr": 0.00017,
+        "conversion_rate": 0.0341,
+        "roas": 0.4353
+      },
+      {
+        "date": "2017-08-26",
+        "search_interest": 86,
+        "ctr": 0.00018,
+        "conversion_rate": 0.0246,
+        "roas": 0.3063
+      },
+      {
+        "date": "2017-08-27",
+        "search_interest": 88,
+        "ctr": 0.000211,
+        "conversion_rate": 0.0243,
+        "roas": 0.3228
+      },
+      {
+        "date": "2017-08-28",
+        "search_interest": 77,
+        "ctr": 0.00018,
+        "conversion_rate": 0.0226,
+        "roas": 0.2957
+      },
+      {
+        "date": "2017-08-29",
+        "search_interest": 73,
+        "ctr": 0.00015,
+        "conversion_rate": 0.0312,
+        "roas": 0.3802
+      },
+      {
+        "date": "2017-08-30",
+        "search_interest": 68,
+        "ctr": 0.000172,
+        "conversion_rate": 0.0239,
+        "roas": 0.2975
+      }
+    ],
+    "skin care": [
+      {
+        "date": "2017-08-17",
+        "search_interest": 100,
+        "ctr": 0.000211,
+        "conversion_rate": 0.0196,
+        "roas": 0.2741
+      },
+      {
+        "date": "2017-08-18",
+        "search_interest": 90,
+        "ctr": 0.000187,
+        "conversion_rate": 0.0285,
+        "roas": 0.3801
+      },
+      {
+        "date": "2017-08-19",
+        "search_interest": 84,
+        "ctr": 0.000194,
+        "conversion_rate": 0.0228,
+        "roas": 0.3052
+      },
+      {
+        "date": "2017-08-20",
+        "search_interest": 79,
+        "ctr": 0.000175,
+        "conversion_rate": 0.0295,
+        "roas": 0.3845
+      },
+      {
+        "date": "2017-08-21",
+        "search_interest": 85,
+        "ctr": 0.000174,
+        "conversion_rate": 0.033,
+        "roas": 0.4414
+      },
+      {
+        "date": "2017-08-22",
+        "search_interest": 97,
+        "ctr": 0.000147,
+        "conversion_rate": 0.0511,
+        "roas": 0.6691
+      },
+      {
+        "date": "2017-08-23",
+        "search_interest": 96,
+        "ctr": 0.000142,
+        "conversion_rate": 0.0483,
+        "roas": 0.5897
+      },
+      {
+        "date": "2017-08-24",
+        "search_interest": 100,
+        "ctr": 0.00021,
+        "conversion_rate": 0.021,
+        "roas": 0.2784
+      },
+      {
+        "date": "2017-08-25",
+        "search_interest": 92,
+        "ctr": 0.00017,
+        "conversion_rate": 0.0341,
+        "roas": 0.4353
+      },
+      {
+        "date": "2017-08-26",
+        "search_interest": 81,
+        "ctr": 0.00018,
+        "conversion_rate": 0.0246,
+        "roas": 0.3063
+      },
+      {
+        "date": "2017-08-27",
+        "search_interest": 80,
+        "ctr": 0.000211,
+        "conversion_rate": 0.0243,
+        "roas": 0.3228
+      },
+      {
+        "date": "2017-08-28",
+        "search_interest": 91,
+        "ctr": 0.00018,
+        "conversion_rate": 0.0226,
+        "roas": 0.2957
+      },
+      {
+        "date": "2017-08-29",
+        "search_interest": 91,
+        "ctr": 0.00015,
+        "conversion_rate": 0.0312,
+        "roas": 0.3802
+      },
+      {
+        "date": "2017-08-30",
+        "search_interest": 98,
+        "ctr": 0.000172,
+        "conversion_rate": 0.0239,
+        "roas": 0.2975
+      }
+    ]
+  },
+  "demandBucketSummary": {
+    "fashion": [
+      {
+        "demand_bucket": "low_demand",
+        "avg_search_interest": 86.2,
+        "avg_ctr": 0.000172,
+        "avg_conversion_rate": 0.0309,
+        "avg_roas": 0.3962
+      },
+      {
+        "demand_bucket": "mid_demand",
+        "avg_search_interest": 90.8,
+        "avg_ctr": 0.000177,
+        "avg_conversion_rate": 0.0317,
+        "avg_roas": 0.4121
+      },
+      {
+        "demand_bucket": "high_demand",
+        "avg_search_interest": 96.25,
+        "avg_ctr": 0.00019,
+        "avg_conversion_rate": 0.0253,
+        "avg_roas": 0.3297
+      }
+    ],
+    "fitness": [
+      {
+        "demand_bucket": "low_demand",
+        "avg_search_interest": 84.0,
+        "avg_ctr": 0.000192,
+        "avg_conversion_rate": 0.0273,
+        "avg_roas": 0.3615
+      },
+      {
+        "demand_bucket": "mid_demand",
+        "avg_search_interest": 89.4,
+        "avg_ctr": 0.000185,
+        "avg_conversion_rate": 0.025,
+        "avg_roas": 0.3237
+      },
+      {
+        "demand_bucket": "high_demand",
+        "avg_search_interest": 96.75,
+        "avg_ctr": 0.000155,
+        "avg_conversion_rate": 0.0383,
+        "avg_roas": 0.4837
+      }
+    ],
+    "grocery": [
+      {
+        "demand_bucket": "low_demand",
+        "avg_search_interest": 68.2,
+        "avg_ctr": 0.000169,
+        "avg_conversion_rate": 0.0355,
+        "avg_roas": 0.4552
+      },
+      {
+        "demand_bucket": "mid_demand",
+        "avg_search_interest": 74.4,
+        "avg_ctr": 0.00018,
+        "avg_conversion_rate": 0.0272,
+        "avg_roas": 0.3531
+      },
+      {
+        "demand_bucket": "high_demand",
+        "avg_search_interest": 92.5,
+        "avg_ctr": 0.00019,
+        "avg_conversion_rate": 0.0253,
+        "avg_roas": 0.3297
+      }
+    ],
+    "skin care": [
+      {
+        "demand_bucket": "low_demand",
+        "avg_search_interest": 81.8,
+        "avg_ctr": 0.000187,
+        "avg_conversion_rate": 0.0268,
+        "avg_roas": 0.352
+      },
+      {
+        "demand_bucket": "mid_demand",
+        "avg_search_interest": 92.0,
+        "avg_ctr": 0.000166,
+        "avg_conversion_rate": 0.0329,
+        "avg_roas": 0.4162
+      },
+      {
+        "demand_bucket": "high_demand",
+        "avg_search_interest": 98.75,
+        "avg_ctr": 0.000185,
+        "avg_conversion_rate": 0.0289,
+        "avg_roas": 0.3798
+      }
+    ]
+  },
+  "ageGenderSummary": [
+    {
+      "age": "30-34",
+      "gender": "F",
+      "impressions": 31571576,
+      "clicks": 5099,
+      "spent": 7611.48,
+      "approved_conversion": 195,
+      "revenue": 3900.0,
+      "ctr": 0.000135,
+      "conversion_rate": 0.1095,
+      "roas": 1.5275
+    },
+    {
+      "age": "30-34",
+      "gender": "M",
+      "impressions": 36421443,
+      "clicks": 4384,
+      "spent": 7640.92,
+      "approved_conversion": 299,
+      "revenue": 5980.0,
+      "ctr": 0.0001,
+      "conversion_rate": 0.1128,
+      "roas": 1.6629
+    },
+    {
+      "age": "35-39",
+      "gender": "F",
+      "impressions": 21439505,
+      "clicks": 4161,
+      "spent": 6061.35,
+      "approved_conversion": 95,
+      "revenue": 1900.0,
+      "ctr": 0.000193,
+      "conversion_rate": 0.103,
+      "roas": 1.5564
+    },
+    {
+      "age": "35-39",
+      "gender": "M",
+      "impressions": 20665139,
+      "clicks": 2933,
+      "spent": 5051.08,
+      "approved_conversion": 112,
+      "revenue": 2240.0,
+      "ctr": 0.000139,
+      "conversion_rate": 0.1046,
+      "roas": 1.507
+    },
+    {
+      "age": "40-44",
+      "gender": "F",
+      "impressions": 23396175,
+      "clicks": 5177,
+      "spent": 7396.58,
+      "approved_conversion": 93,
+      "revenue": 1860.0,
+      "ctr": 0.000221,
+      "conversion_rate": 0.035,
+      "roas": 0.5317
+    },
+    {
+      "age": "40-44",
+      "gender": "M",
+      "impressions": 16208132,
+      "clicks": 2559,
+      "spent": 4193.15,
+      "approved_conversion": 77,
+      "revenue": 1540.0,
+      "ctr": 0.000179,
+      "conversion_rate": 0.0981,
+      "roas": 1.4223
+    },
+    {
+      "age": "45-49",
+      "gender": "F",
+      "impressions": 38455591,
+      "clicks": 9441,
+      "spent": 13433.21,
+      "approved_conversion": 112,
+      "revenue": 2240.0,
+      "ctr": 0.000257,
+      "conversion_rate": 0.052,
+      "roas": 0.8922
+    },
+    {
+      "age": "45-49",
+      "gender": "M",
+      "impressions": 25277267,
+      "clicks": 4411,
+      "spent": 7317.46,
+      "approved_conversion": 96,
+      "revenue": 1920.0,
+      "ctr": 0.000167,
+      "conversion_rate": 0.065,
+      "roas": 1.6838
+    }
+  ],
+  "segmentSensitivity": {
+    "fashion": {
+      "top_positive": [
+        {
+          "trend_keyword": "fashion",
+          "age": "40-44",
+          "gender": "F",
+          "corr_with_ctr": -0.156,
+          "corr_with_conversion_rate": 0.563,
+          "corr_with_roas": 0.568,
+          "total_spent": 7396.58,
+          "total_clicks": 5177,
+          "total_conversions": 93,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "fashion",
+          "age": "30-34",
+          "gender": "F",
+          "corr_with_ctr": 0.44,
+          "corr_with_conversion_rate": 0.486,
+          "corr_with_roas": 0.484,
+          "total_spent": 7611.48,
+          "total_clicks": 5099,
+          "total_conversions": 195,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "fashion",
+          "age": "35-39",
+          "gender": "M",
+          "corr_with_ctr": 0.271,
+          "corr_with_conversion_rate": 0.208,
+          "corr_with_roas": 0.214,
+          "total_spent": 5051.08,
+          "total_clicks": 2933,
+          "total_conversions": 112,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "fashion",
+          "age": "45-49",
+          "gender": "M",
+          "corr_with_ctr": -0.33,
+          "corr_with_conversion_rate": 0.016,
+          "corr_with_roas": 0.016,
+          "total_spent": 7317.46,
+          "total_clicks": 4411,
+          "total_conversions": 96,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "fashion",
+          "age": "35-39",
+          "gender": "F",
+          "corr_with_ctr": 0.048,
+          "corr_with_conversion_rate": 0.063,
+          "corr_with_roas": -0.044,
+          "total_spent": 6061.35,
+          "total_clicks": 4161,
+          "total_conversions": 95,
+          "n_days": 13
+        }
+      ],
+      "top_negative": [
+        {
+          "trend_keyword": "fashion",
+          "age": "45-49",
+          "gender": "F",
+          "corr_with_ctr": -0.308,
+          "corr_with_conversion_rate": -0.333,
+          "corr_with_roas": -0.329,
+          "total_spent": 13433.21,
+          "total_clicks": 9441,
+          "total_conversions": 112,
+          "n_days": 13
+        },
+        {
+          "trend_keyword": "fashion",
+          "age": "40-44",
+          "gender": "M",
+          "corr_with_ctr": -0.257,
+          "corr_with_conversion_rate": -0.085,
+          "corr_with_roas": -0.115,
+          "total_spent": 4193.15,
+          "total_clicks": 2559,
+          "total_conversions": 77,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "fashion",
+          "age": "30-34",
+          "gender": "M",
+          "corr_with_ctr": 0.12,
+          "corr_with_conversion_rate": -0.099,
+          "corr_with_roas": -0.092,
+          "total_spent": 7640.92,
+          "total_clicks": 4384,
+          "total_conversions": 299,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "fashion",
+          "age": "35-39",
+          "gender": "F",
+          "corr_with_ctr": 0.048,
+          "corr_with_conversion_rate": 0.063,
+          "corr_with_roas": -0.044,
+          "total_spent": 6061.35,
+          "total_clicks": 4161,
+          "total_conversions": 95,
+          "n_days": 13
+        },
+        {
+          "trend_keyword": "fashion",
+          "age": "45-49",
+          "gender": "M",
+          "corr_with_ctr": -0.33,
+          "corr_with_conversion_rate": 0.016,
+          "corr_with_roas": 0.016,
+          "total_spent": 7317.46,
+          "total_clicks": 4411,
+          "total_conversions": 96,
+          "n_days": 14
+        }
+      ]
+    },
+    "fitness": {
+      "top_positive": [
+        {
+          "trend_keyword": "fitness",
+          "age": "40-44",
+          "gender": "M",
+          "corr_with_ctr": 0.13,
+          "corr_with_conversion_rate": 0.009,
+          "corr_with_roas": 0.001,
+          "total_spent": 4193.15,
+          "total_clicks": 2559,
+          "total_conversions": 77,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "fitness",
+          "age": "45-49",
+          "gender": "F",
+          "corr_with_ctr": 0.011,
+          "corr_with_conversion_rate": -0.084,
+          "corr_with_roas": -0.076,
+          "total_spent": 13433.21,
+          "total_clicks": 9441,
+          "total_conversions": 112,
+          "n_days": 13
+        },
+        {
+          "trend_keyword": "fitness",
+          "age": "40-44",
+          "gender": "F",
+          "corr_with_ctr": 0.378,
+          "corr_with_conversion_rate": -0.151,
+          "corr_with_roas": -0.084,
+          "total_spent": 7396.58,
+          "total_clicks": 5177,
+          "total_conversions": 93,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "fitness",
+          "age": "35-39",
+          "gender": "F",
+          "corr_with_ctr": -0.054,
+          "corr_with_conversion_rate": -0.134,
+          "corr_with_roas": -0.114,
+          "total_spent": 6061.35,
+          "total_clicks": 4161,
+          "total_conversions": 95,
+          "n_days": 13
+        },
+        {
+          "trend_keyword": "fitness",
+          "age": "30-34",
+          "gender": "F",
+          "corr_with_ctr": -0.218,
+          "corr_with_conversion_rate": -0.133,
+          "corr_with_roas": -0.142,
+          "total_spent": 7611.48,
+          "total_clicks": 5099,
+          "total_conversions": 195,
+          "n_days": 14
+        }
+      ],
+      "top_negative": [
+        {
+          "trend_keyword": "fitness",
+          "age": "35-39",
+          "gender": "M",
+          "corr_with_ctr": -0.305,
+          "corr_with_conversion_rate": -0.231,
+          "corr_with_roas": -0.22,
+          "total_spent": 5051.08,
+          "total_clicks": 2933,
+          "total_conversions": 112,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "fitness",
+          "age": "30-34",
+          "gender": "M",
+          "corr_with_ctr": -0.316,
+          "corr_with_conversion_rate": -0.194,
+          "corr_with_roas": -0.21,
+          "total_spent": 7640.92,
+          "total_clicks": 4384,
+          "total_conversions": 299,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "fitness",
+          "age": "45-49",
+          "gender": "M",
+          "corr_with_ctr": -0.149,
+          "corr_with_conversion_rate": -0.215,
+          "corr_with_roas": -0.209,
+          "total_spent": 7317.46,
+          "total_clicks": 4411,
+          "total_conversions": 96,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "fitness",
+          "age": "30-34",
+          "gender": "F",
+          "corr_with_ctr": -0.218,
+          "corr_with_conversion_rate": -0.133,
+          "corr_with_roas": -0.142,
+          "total_spent": 7611.48,
+          "total_clicks": 5099,
+          "total_conversions": 195,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "fitness",
+          "age": "35-39",
+          "gender": "F",
+          "corr_with_ctr": -0.054,
+          "corr_with_conversion_rate": -0.134,
+          "corr_with_roas": -0.114,
+          "total_spent": 6061.35,
+          "total_clicks": 4161,
+          "total_conversions": 95,
+          "n_days": 13
+        }
+      ]
+    },
+    "grocery": {
+      "top_positive": [
+        {
+          "trend_keyword": "grocery",
+          "age": "40-44",
+          "gender": "F",
+          "corr_with_ctr": -0.61,
+          "corr_with_conversion_rate": 0.524,
+          "corr_with_roas": 0.503,
+          "total_spent": 7396.58,
+          "total_clicks": 5177,
+          "total_conversions": 93,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "grocery",
+          "age": "30-34",
+          "gender": "F",
+          "corr_with_ctr": 0.175,
+          "corr_with_conversion_rate": 0.413,
+          "corr_with_roas": 0.407,
+          "total_spent": 7611.48,
+          "total_clicks": 5099,
+          "total_conversions": 195,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "grocery",
+          "age": "40-44",
+          "gender": "M",
+          "corr_with_ctr": 0.053,
+          "corr_with_conversion_rate": -0.078,
+          "corr_with_roas": -0.038,
+          "total_spent": 4193.15,
+          "total_clicks": 2559,
+          "total_conversions": 77,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "grocery",
+          "age": "35-39",
+          "gender": "M",
+          "corr_with_ctr": 0.047,
+          "corr_with_conversion_rate": -0.047,
+          "corr_with_roas": -0.045,
+          "total_spent": 5051.08,
+          "total_clicks": 2933,
+          "total_conversions": 112,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "grocery",
+          "age": "45-49",
+          "gender": "M",
+          "corr_with_ctr": -0.098,
+          "corr_with_conversion_rate": -0.103,
+          "corr_with_roas": -0.106,
+          "total_spent": 7317.46,
+          "total_clicks": 4411,
+          "total_conversions": 96,
+          "n_days": 14
+        }
+      ],
+      "top_negative": [
+        {
+          "trend_keyword": "grocery",
+          "age": "45-49",
+          "gender": "F",
+          "corr_with_ctr": -0.44,
+          "corr_with_conversion_rate": -0.183,
+          "corr_with_roas": -0.194,
+          "total_spent": 13433.21,
+          "total_clicks": 9441,
+          "total_conversions": 112,
+          "n_days": 13
+        },
+        {
+          "trend_keyword": "grocery",
+          "age": "30-34",
+          "gender": "M",
+          "corr_with_ctr": -0.043,
+          "corr_with_conversion_rate": -0.171,
+          "corr_with_roas": -0.157,
+          "total_spent": 7640.92,
+          "total_clicks": 4384,
+          "total_conversions": 299,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "grocery",
+          "age": "35-39",
+          "gender": "F",
+          "corr_with_ctr": 0.307,
+          "corr_with_conversion_rate": -0.005,
+          "corr_with_roas": -0.123,
+          "total_spent": 6061.35,
+          "total_clicks": 4161,
+          "total_conversions": 95,
+          "n_days": 13
+        },
+        {
+          "trend_keyword": "grocery",
+          "age": "45-49",
+          "gender": "M",
+          "corr_with_ctr": -0.098,
+          "corr_with_conversion_rate": -0.103,
+          "corr_with_roas": -0.106,
+          "total_spent": 7317.46,
+          "total_clicks": 4411,
+          "total_conversions": 96,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "grocery",
+          "age": "35-39",
+          "gender": "M",
+          "corr_with_ctr": 0.047,
+          "corr_with_conversion_rate": -0.047,
+          "corr_with_roas": -0.045,
+          "total_spent": 5051.08,
+          "total_clicks": 2933,
+          "total_conversions": 112,
+          "n_days": 12
+        }
+      ]
+    },
+    "skin care": {
+      "top_positive": [
+        {
+          "trend_keyword": "skin care",
+          "age": "30-34",
+          "gender": "M",
+          "corr_with_ctr": 0.219,
+          "corr_with_conversion_rate": 0.251,
+          "corr_with_roas": 0.23,
+          "total_spent": 7640.92,
+          "total_clicks": 4384,
+          "total_conversions": 299,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "skin care",
+          "age": "35-39",
+          "gender": "M",
+          "corr_with_ctr": 0.095,
+          "corr_with_conversion_rate": 0.158,
+          "corr_with_roas": 0.138,
+          "total_spent": 5051.08,
+          "total_clicks": 2933,
+          "total_conversions": 112,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "skin care",
+          "age": "45-49",
+          "gender": "M",
+          "corr_with_ctr": 0.098,
+          "corr_with_conversion_rate": 0.093,
+          "corr_with_roas": 0.097,
+          "total_spent": 7317.46,
+          "total_clicks": 4411,
+          "total_conversions": 96,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "skin care",
+          "age": "45-49",
+          "gender": "F",
+          "corr_with_ctr": 0.086,
+          "corr_with_conversion_rate": -0.012,
+          "corr_with_roas": 0.005,
+          "total_spent": 13433.21,
+          "total_clicks": 9441,
+          "total_conversions": 112,
+          "n_days": 13
+        },
+        {
+          "trend_keyword": "skin care",
+          "age": "40-44",
+          "gender": "M",
+          "corr_with_ctr": 0.007,
+          "corr_with_conversion_rate": -0.033,
+          "corr_with_roas": -0.073,
+          "total_spent": 4193.15,
+          "total_clicks": 2559,
+          "total_conversions": 77,
+          "n_days": 12
+        }
+      ],
+      "top_negative": [
+        {
+          "trend_keyword": "skin care",
+          "age": "30-34",
+          "gender": "F",
+          "corr_with_ctr": -0.3,
+          "corr_with_conversion_rate": -0.124,
+          "corr_with_roas": -0.131,
+          "total_spent": 7611.48,
+          "total_clicks": 5099,
+          "total_conversions": 195,
+          "n_days": 14
+        },
+        {
+          "trend_keyword": "skin care",
+          "age": "35-39",
+          "gender": "F",
+          "corr_with_ctr": -0.178,
+          "corr_with_conversion_rate": -0.106,
+          "corr_with_roas": -0.093,
+          "total_spent": 6061.35,
+          "total_clicks": 4161,
+          "total_conversions": 95,
+          "n_days": 13
+        },
+        {
+          "trend_keyword": "skin care",
+          "age": "40-44",
+          "gender": "F",
+          "corr_with_ctr": 0.425,
+          "corr_with_conversion_rate": -0.124,
+          "corr_with_roas": -0.082,
+          "total_spent": 7396.58,
+          "total_clicks": 5177,
+          "total_conversions": 93,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "skin care",
+          "age": "40-44",
+          "gender": "M",
+          "corr_with_ctr": 0.007,
+          "corr_with_conversion_rate": -0.033,
+          "corr_with_roas": -0.073,
+          "total_spent": 4193.15,
+          "total_clicks": 2559,
+          "total_conversions": 77,
+          "n_days": 12
+        },
+        {
+          "trend_keyword": "skin care",
+          "age": "45-49",
+          "gender": "F",
+          "corr_with_ctr": 0.086,
+          "corr_with_conversion_rate": -0.012,
+          "corr_with_roas": 0.005,
+          "total_spent": 13433.21,
+          "total_clicks": 9441,
+          "total_conversions": 112,
+          "n_days": 13
+        }
+      ]
+    }
+  },
+  "clusterCards": {
+    "best": [
+      {
+        "audience_cluster_label": "cluster_528",
+        "audience_cluster_key": "2_4_7",
+        "ads": 3,
+        "spent": 11.8,
+        "approved_conversion": 4,
+        "roas": 6.78,
+        "cpa": 2.95,
+        "age_modes": "30-34, 40-44",
+        "gender_modes": "F, M"
+      },
+      {
+        "audience_cluster_label": "cluster_512",
+        "audience_cluster_key": "29_34_30",
+        "ads": 3,
+        "spent": 14.42,
+        "approved_conversion": 4,
+        "roas": 5.548,
+        "cpa": 3.6,
+        "age_modes": "30-34, 35-39",
+        "gender_modes": "F, M"
+      },
+      {
+        "audience_cluster_label": "cluster_500",
+        "audience_cluster_key": "29_31_35",
+        "ads": 4,
+        "spent": 13.36,
+        "approved_conversion": 3,
+        "roas": 4.491,
+        "cpa": 4.45,
+        "age_modes": "30-34, 35-39",
+        "gender_modes": "F, M"
+      },
+      {
+        "audience_cluster_label": "cluster_452",
+        "audience_cluster_key": "27_33_32",
+        "ads": 3,
+        "spent": 20.29,
+        "approved_conversion": 3,
+        "roas": 2.957,
+        "cpa": 6.76,
+        "age_modes": "30-34",
+        "gender_modes": "F"
+      },
+      {
+        "audience_cluster_label": "cluster_160",
+        "audience_cluster_key": "16_17_17",
+        "ads": 3,
+        "spent": 16.45,
+        "approved_conversion": 2,
+        "roas": 2.432,
+        "cpa": 8.22,
+        "age_modes": "30-34, 40-44, 45-49",
+        "gender_modes": "F, M"
+      }
+    ],
+    "worst": [
+      {
+        "audience_cluster_label": "cluster_175",
+        "audience_cluster_key": "16_19_20",
+        "ads": 4,
+        "spent": 194.960001567,
+        "approved_conversion": 0,
+        "roas": 0.0,
+        "cpa": null,
+        "age_modes": "30-34, 40-44, 45-49",
+        "gender_modes": "F, M"
+      },
+      {
+        "audience_cluster_label": "cluster_161",
+        "audience_cluster_key": "16_17_18",
+        "ads": 4,
+        "spent": 44.049999361,
+        "approved_conversion": 0,
+        "roas": 0.0,
+        "cpa": null,
+        "age_modes": "30-34, 35-39, 45-49",
+        "gender_modes": "F, M"
+      },
+      {
+        "audience_cluster_label": "cluster_401",
+        "audience_cluster_key": "26_28_29",
+        "ads": 3,
+        "spent": 37.430000070000006,
+        "approved_conversion": 0,
+        "roas": 0.0,
+        "cpa": null,
+        "age_modes": "30-34",
+        "gender_modes": "M"
+      },
+      {
+        "audience_cluster_label": "cluster_053",
+        "audience_cluster_key": "10_13_16",
+        "ads": 3,
+        "spent": 32.28999996,
+        "approved_conversion": 0,
+        "roas": 0.0,
+        "cpa": null,
+        "age_modes": "30-34, 35-39",
+        "gender_modes": "F, M"
+      },
+      {
+        "audience_cluster_label": "cluster_170",
+        "audience_cluster_key": "16_18_21",
+        "ads": 3,
+        "spent": 18.199999575,
+        "approved_conversion": 0,
+        "roas": 0.0,
+        "cpa": null,
+        "age_modes": "30-34, 40-44, 45-49",
+        "gender_modes": "F"
+      }
+    ]
+  },
+  "methodology": {
+    "scope_note": "Google Trends is used as an overall market-demand context signal, not as a user-level measure of what a Facebook audience segment searched for.",
+    "limitation_note": "Trend alignment findings are exploratory because the observation window covers only 14 days and themes are manually selected market-context topics."
+  }
+}

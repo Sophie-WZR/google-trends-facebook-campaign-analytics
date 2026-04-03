@@ -1,0 +1,5 @@
+theme_id,trend_keyword,business_rationale,include_in_fetch
+theme_01,skin care,"Represents beauty and personal care demand as a broad consumer-interest theme.",true
+theme_02,fitness,"Represents health and exercise demand as a broad lifestyle theme.",true
+theme_03,fashion,"Represents apparel and style demand as a broad consumer-interest theme.",true
+theme_04,grocery,"Represents everyday consumer demand as a broad household-spend theme.",true
